@@ -1,7 +1,5 @@
 ## ¡Hola, this is Frances Aneth!👋
 
-<h2>👋 Hello! I'm Frances Aneth Rosales</h2>
-
 <p>🎓 <strong>B.S. in Applied Mathematics – Data Science</strong></p>
 
 <p>💻 <strong>Programming Languages:</strong> C, Python, R</p>
